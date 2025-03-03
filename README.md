@@ -1,5 +1,20 @@
 # Restaurant-Management-System
+📌 Project Overview
+The Restaurant Management System is a web-based platform designed to manage customer orders, reservations, and menu details efficiently. It provides an intuitive interface for users to browse the menu, place orders, and book tables. The system also allows restaurant management to update menu items and track orders.
 
+🚀 Features
+✅ User Login & Dashboard – Customers can log in and navigate through a user-friendly dashboard.
+✅ Menu Browsing – Displays available dishes with prices and descriptions.
+✅ Order Management – Users can add items to the cart and place orders.
+✅ Table Reservations – Customers can book tables in advance.
+✅ Admin Panel – Restaurant management can update menu items and manage reservations.
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: PHP, SQL
+Database: MySQL
+
+📸 Screenshots
 Login page:
 ![Screenshot 2025-02-28 212237](https://github.com/user-attachments/assets/c90d6bc6-a899-4ae8-83a2-f8c862d235f0)
 
